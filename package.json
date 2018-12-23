@@ -1,0 +1,24 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "npm": "^6.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalCramer/budget-tracker.git"
+  },
+  "author": "Kal Cramer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KalCramer/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/KalCramer/budget-tracker#readme"
+}
